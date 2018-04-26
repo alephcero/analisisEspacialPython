@@ -1,0 +1,2 @@
+# analisisEspacialPython
+lab para UTDT
